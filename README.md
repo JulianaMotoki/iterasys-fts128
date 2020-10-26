@@ -1,2 +1,2 @@
 # iterasys
-Repositório com os conteúdos, exercícios e demais tarefas dos cursos da Iterasys
+Repositório com os conteúdos, exercícios e demais tarefas do curso de Formação de Teste Software
